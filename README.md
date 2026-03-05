@@ -58,7 +58,7 @@ This repository is organized under `library/` by topic.
 ## philosophy
 - Al Ghazali Incoherence of the Philosophers.pdf
 - Kalam.pdf
+- Marcus_Aurelius_Antoninus_to_Himself.pdf
 
 ## social-questions
 - FINAL_-Why-Do-People-Suffer_-Gods-Existence-the-Problem-of-Evil-2.pdf
-
